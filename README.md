@@ -30,3 +30,8 @@ typst compile short.typ
 ```
 
 This generates PDF files next to the `.typ` files. The PDFs are intentionally ignored by git.
+
+Or more convenient to edit 
+```sh
+typst watch cesky_course_assembly_2025.typ
+```
