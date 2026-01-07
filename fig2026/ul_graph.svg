@@ -1,0 +1,1380 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="ul_graph.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.24333594"
+     inkscape:cx="427.39268"
+     inkscape:cy="1015.0576"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2941" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt;"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path3465" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutM"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutM"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.4)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path3595" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleOutS"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="TriangleOutS"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2)"
+         style="fill-rule:evenodd;fill:context-stroke;stroke:context-stroke;stroke-width:1.0pt"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         id="path3598" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m -68.791666,111.125 h 47.625 L 0,111.125"
+       id="path2964"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 306.91667,423.33333 15.875,-15.875"
+       id="path3448"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 306.91667,423.33333 15.875,15.875"
+       id="path4409"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ff003d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 322.79167,402.16666 h 47.625 v 0"
+       id="path4411"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 322.79167,444.5 h 47.625 v 0"
+       id="path4684"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 370.41667,444.5 15.875,-15.875"
+       id="path5352"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 370.41667,402.16666 15.875,15.875"
+       id="path5354"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 79.375001,111.125 31.749999,0 v 0"
+       id="path5356"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ff003d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 116.41667,132.29167 37.04166,0 v 0"
+       id="path5533"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 116.41667,89.958333 h 37.04166 v 0"
+       id="path5535"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 111.125,111.125 116.41667,95.25"
+       id="path5537"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 111.125,111.125 116.41667,127"
+       id="path5539"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 153.45833,132.29167 5.29167,-15.875"
+       id="path6134"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 153.45833,89.958333 158.75,105.83333"
+       id="path6136"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 158.75,111.125 15.875,0 v 0"
+       id="path6138"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 185.20833,111.125 h 15.875 v 0"
+       id="path6315"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-size:9.87777778px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal"
+       x="31.75"
+       y="74.083336"
+       id="text9113"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan9111"
+         style="stroke-width:0.264583;-inkscape-font-specification:'CMU Bright';font-family:'CMU Bright';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:9.87777778px"
+         x="31.75"
+         y="74.083336">mix of heterozygous regions</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+       x="172.43721"
+       y="127.3953"
+       id="text12853"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan12851"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+         x="172.43721"
+         y="127.3953">gaps</tspan></text>
+    <path
+       style="fill:#ffcc00;stroke:#ff003d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 206.375,132.29167 h 37.04166 v 0"
+       id="path14505"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 201.08333,111.125 206.375,95.25"
+       id="path14509"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 201.08333,111.125 206.375,127"
+       id="path14511"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 243.41666,132.29167 13.22917,-15.875"
+       id="path14513"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 254,89.958333 5.29167,15.874997"
+       id="path14515"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 207.69792,91.28125 h 15.875 v 0"
+       id="path14517"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 222.25,88.635417 2.64583,-3.96875"
+       id="path14728"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 223.57292,79.375 h 15.875 v 0"
+       id="path15331"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 239.44792,91.28125 h 15.875 v 0"
+       id="path15333"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 207.69792,67.46875 h 15.875 v 0"
+       id="path15335"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 239.44792,67.46875 h 15.875 v 0"
+       id="path15337"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 222.25,70.114583 2.64583,3.96875"
+       id="path15613"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 236.80209,82.020833 2.64583,3.96875"
+       id="path15615"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 236.80209,76.729167 2.64583,-3.96875"
+       id="path15617"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 201.08333,111.125 6.61459,-39.6875"
+       id="path15619"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 259.29167,111.125 h 15.875 18.52084"
+       id="path15678"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 255.32291,67.468753 6.61459,38.364577"
+       id="path16072"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+       x="168.12802"
+       y="59.509785"
+       id="text16175"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan16173"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+         x="168.12802"
+         y="59.509785">unresolved repeats/bubbles</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+       x="-86.294464"
+       y="31.957546"
+       id="text16941"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_1.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan16939"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+         x="-86.294464"
+         y="31.957546">final OLC/de Bruijn graph (after cleaning/graph simplification)</tspan></text>
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -68.791666,296.33333 h 47.625 H 0"
+       id="path19169"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 6.6667985e-8,296.33333 15.875,280.45833"
+       id="path19171"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 6.6667981e-8,296.33333 15.875,312.20833"
+       id="path19173"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ff003d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.875001,275.16666 h 47.625 v 0"
+       id="path19175"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.875001,317.5 h 47.625 v 0"
+       id="path19177"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 63.5,317.5 79.375,301.625"
+       id="path19179"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 63.5,275.16666 15.875,15.875"
+       id="path19181"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 79.375001,296.33333 H 111.125 v 0"
+       id="path19183"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ff003d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 116.41667,317.5 h 37.04166 v 0"
+       id="path19185"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 116.41667,275.16666 h 37.04166 v 0"
+       id="path19187"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 111.125,296.33333 5.29167,-15.875"
+       id="path19189"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 111.125,296.33333 5.29167,15.875"
+       id="path19191"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 153.45833,317.5 158.75,301.625"
+       id="path19193"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 153.45833,275.16666 5.29167,15.875"
+       id="path19195"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 158.75,296.33333 h 15.875 v 0"
+       id="path19197"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 185.20833,296.33333 h 15.875 v 0"
+       id="path19199"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ff003d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 206.375,317.5 h 37.04166 v 0"
+       id="path19209"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 201.08333,296.33333 5.29167,-15.875"
+       id="path19211"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 201.08333,296.33333 5.29167,15.875"
+       id="path19213"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 243.41666,317.5 13.22917,-15.875"
+       id="path19215"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 254,275.16666 5.29167,15.875"
+       id="path19217"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 207.69792,276.48958 h 15.875 v 0"
+       id="path19219"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 222.25,273.84375 2.64583,-3.96875"
+       id="path19221"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 223.57292,264.58333 h 15.875 v 0"
+       id="path19223"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 239.44792,276.48958 h 15.875 v 0"
+       id="path19225"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 207.69792,252.67708 h 15.875 v 0"
+       id="path19227"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 239.44792,252.67708 h 15.875 v 0"
+       id="path19229"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 222.25,255.32291 2.64583,3.96875"
+       id="path19231"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 236.80209,267.22916 2.64583,3.96875"
+       id="path19233"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 236.80209,261.9375 2.64583,-3.96875"
+       id="path19235"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 201.08333,296.33333 6.61459,-39.6875"
+       id="path19237"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 259.29167,296.33333 h 15.875 18.52084"
+       id="path19239"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 255.32291,252.67708 6.61459,38.36458"
+       id="path19241"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#ff003d;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -63.5,264.58333 H 0 l 8.5525681,-8.55256 61.0254399,0.55055 12.903144,20.41855 10.123015,0.0189"
+       id="path19487"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#458eff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.74117649"
+       d="m -21.166667,325.37299 25.6719923,0 8.5525677,8.55256 61.02544,-0.55055 13.229167,-44.97917 h 20.02342 l 5.59011,-22.98476 29.94897,0.2306"
+       id="path22967"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#ff003d;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 100.54167,317.5 5.10665,13.84423 h 49.84078 l 8.55257,-8.55256 31.75,0 L 222.25,333.375 h 21.16667"
+       id="path26753"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#458eff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.741176"
+       d="m 52.916667,245.99799 h 25.671992 l 8.552568,8.55256 L 195.79167,254 206.375,243.41667 H 254 l 21.16667,26.45833 h 15.875"
+       id="path27236"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.89999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.89999995, 0.89999995;stroke-opacity:1;marker-end:;stroke-dashoffset:0"
+       d="M -21.166667,264.58333 V 293.6875"
+       id="path27728"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+       x="-87.476242"
+       y="283.37106"
+       id="text27869"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan27867"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+         x="-87.476242"
+         y="283.37106">common seeds</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+       x="-86.294464"
+       y="224.05161"
+       id="text28413"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan28411"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+         x="-86.294464"
+         y="224.05161">ultra long read mapping on the graph</tspan></text>
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -68.791666,296.33333 h 47.625 H 0"
+       id="path29879"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 6.6667985e-8,296.33333 15.875,280.45833"
+       id="path29881"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 6.6667981e-8,296.33333 15.875,312.20833"
+       id="path29883"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ff003d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.875001,275.16666 h 47.625 v 0"
+       id="path29885"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.875001,317.5 h 47.625 v 0"
+       id="path29887"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 63.5,317.5 79.375,301.625"
+       id="path29889"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 63.5,275.16666 15.875,15.875"
+       id="path29891"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 79.375001,296.33333 H 111.125 v 0"
+       id="path29893"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ff003d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 116.41667,317.5 h 37.04166 v 0"
+       id="path29895"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 116.41667,275.16666 h 37.04166 v 0"
+       id="path29897"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 111.125,296.33333 5.29167,-15.875"
+       id="path29899"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 111.125,296.33333 5.29167,15.875"
+       id="path29901"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 153.45833,317.5 158.75,301.625"
+       id="path29903"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 153.45833,275.16666 5.29167,15.875"
+       id="path29905"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 158.75,296.33333 h 15.875 v 0"
+       id="path29907"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 185.20833,296.33333 h 15.875 v 0"
+       id="path29909"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ff003d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 206.375,317.5 h 37.04166 v 0"
+       id="path29911"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 201.08333,296.33333 5.29167,-15.875"
+       id="path29913"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 201.08333,296.33333 5.29167,15.875"
+       id="path29915"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 243.41666,317.5 13.22917,-15.875"
+       id="path29917"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 254,275.16666 5.29167,15.875"
+       id="path29919"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 207.69792,276.48958 h 15.875 v 0"
+       id="path29921"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 222.25,273.84375 2.64583,-3.96875"
+       id="path29923"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 223.57292,264.58333 h 15.875 v 0"
+       id="path29925"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 239.44792,276.48958 h 15.875 v 0"
+       id="path29927"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 207.69792,252.67708 h 15.875 v 0"
+       id="path29929"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 239.44792,252.67708 h 15.875 v 0"
+       id="path29931"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 222.25,255.32291 2.64583,3.96875"
+       id="path29933"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 236.80209,267.22916 2.64583,3.96875"
+       id="path29935"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 236.80209,261.9375 2.64583,-3.96875"
+       id="path29937"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 201.08333,296.33333 6.61459,-39.6875"
+       id="path29939"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 259.29167,296.33333 h 15.875 18.52084"
+       id="path29941"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 255.32291,252.67708 6.61459,38.36458"
+       id="path29943"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#ff003d;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M -63.5,264.58333 H 0 l 8.5525681,-8.55256 61.0254399,0.55055 12.903144,20.41855 10.123015,0.0189"
+       id="path29945"
+       sodipodi:nodetypes="cccccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#458eff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.74117649"
+       d="m -21.166667,325.37299 25.6719923,0 8.5525677,8.55256 61.02544,-0.55055 13.229167,-44.97917 h 20.02342 l 5.59011,-22.98476 29.94897,0.2306"
+       id="path29947"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#ff003d;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 100.54167,317.5 5.10665,13.84423 h 49.84078 l 8.55257,-8.55256 31.75,0 L 222.25,333.375 h 21.16667"
+       id="path29949"
+       sodipodi:nodetypes="ccccccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#458eff;stroke-width:2.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.741176"
+       d="m 52.916667,245.99799 h 25.671992 l 8.552568,8.55256 L 195.79167,254 206.375,243.41667 H 254 l 21.16667,26.45833 h 15.875"
+       id="path29951"
+       sodipodi:nodetypes="cccccccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.89999995;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.89999995, 0.89999995;stroke-opacity:1;marker-end:;stroke-dashoffset:0"
+       d="M -21.166667,264.58333 V 293.6875"
+       id="path29953"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+       x="-87.476242"
+       y="283.37106"
+       id="text29957"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan29955"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+         x="-87.476242"
+         y="283.37106">common seeds</tspan></text>
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -68.791666,412.75 h 47.625 H 0"
+       id="path29959"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ff003d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0,412.75 h 47.625 v 0"
+       id="path29965"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 0,433.91667 h 47.625 v 0"
+       id="path29967"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 47.625001,412.75 H 79.375 v 0"
+       id="path29973"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 116.41667,412.75 h 15.875 15.875"
+       id="path29987"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 142.875,412.75 h 15.875 v 0"
+       id="path29989"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ff003d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 158.75001,433.91667 h 37.04166 v 0"
+       id="path29999"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 158.75,412.75 h 15.875 v 0"
+       id="path30009"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 203.72916,412.75 h 15.875 18.52084"
+       id="path30029"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m -68.791666,433.91667 h 47.625 H 0"
+       id="path30033"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 47.625001,433.91667 H 79.375 v 0"
+       id="path30035"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ff003d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 79.375,412.75 h 37.04166 v 0"
+       id="path30037"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 79.375,433.91667 h 37.04166 v 0"
+       id="path30218"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 174.625,412.75 H 190.5 v 0"
+       id="path30220"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 190.5,412.75 h 15.875 v 0"
+       id="path30222"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 116.41667,433.91667 h 15.875 15.875"
+       id="path31184"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 142.875,433.91667 h 15.875 v 0"
+       id="path31186"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 193.14583,433.91667 h 15.875 18.52084"
+       id="path31188"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+       x="-86.294464"
+       y="395.00705"
+       id="text31192"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan31190"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+         x="-86.294464"
+         y="395.00705">phased, resolved haplotypes</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;marker-end:url(#Arrow1Send)"
+       d="M 95.249999,338.66666 V 381"
+       id="path32505"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 288.39583,423.33333 v 0 h 18.52084"
+       id="path32931"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 238.125,412.75 31.75,10.58333"
+       id="path32933"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 227.54167,433.91667 42.33333,-7.9375"
+       id="path32935"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+       x="262.84009"
+       y="465.70932"
+       id="text33228"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         id="tspan33226"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+         x="262.84009"
+         y="465.70932">some very long</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright';stroke-width:0.264583"
+         x="262.84009"
+         y="478.05655"
+         id="tspan33636">range information is missing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.6389px;line-height:1.25;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright Bold';stroke-width:0.264583"
+       x="272.87286"
+       y="425.62399"
+       id="text35733"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.6389px;font-family:'CMU Bright';-inkscape-font-specification:'CMU Bright Bold';stroke-width:0.264583"
+         x="272.87286"
+         y="425.62399"
+         id="tspan35731">...</tspan></text>
+    <path
+       style="fill:#ffcc00;stroke:#ffcb3d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 388.93749,423.33333 v 0 h 18.52084"
+       id="path40527"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 6.666794e-8,111.125 15.875,95.249997"
+       id="path40693"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 6.6667936e-8,111.125 15.875,127"
+       id="path40695"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ff003d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.875001,89.95833 h 47.625 v 0"
+       id="path40697"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.875001,132.29167 h 47.625 v 0"
+       id="path40699"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 63.5,132.29167 15.875,-15.875"
+       id="path40701"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 63.5,89.95833 15.875,15.875"
+       id="path40703"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 6.666794e-8,111.125 15.875,95.249997"
+       id="path40705"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="M 6.6667936e-8,111.125 15.875,127"
+       id="path40707"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#ff003d;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.875001,89.95833 h 47.625 v 0"
+       id="path40709"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:#ffcc00;stroke:#458eff;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 15.875001,132.29167 h 47.625 v 0"
+       id="path40711"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 63.5,132.29167 15.875,-15.875"
+       id="path40713"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.9;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleOutM)"
+       d="m 63.5,89.95833 15.875,15.875"
+       id="path40715"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/papom/formations_ecoles/cesky_2026/Assembly/fig2026/ul_2.png"
+       inkscape:export-xdpi="150"
+       inkscape:export-ydpi="150" />
+  </g>
+</svg>

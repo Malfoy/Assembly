@@ -136,11 +136,17 @@ We are more confident in longer overlaps
 ]
 
 #slide(title: [#bullet-title(accent-pink)[Unsafe paths in an overlap graph]])[
-#image("fig2024/repeat_olc77.png", width: 100%)
+#image("fig2026/repeat_olc77.png", width: 100%)
 ]
 
 #slide(title: [#bullet-title(accent-pink)[Safe paths in an overlap graph]])[
-#image("fig2024/repeat_olc7.png", width: 80%)
+#image("fig2026/repeats_olc7.pdf", width: 50%)
+]
+
+#slide(title: [#bullet-title(accent-pink)[Overlap graph simplifications]])[
+#align(center)[
+#image("fig2026/olc_simplif.png", width: 80%)
+]
 ]
 
 #slide(title: [#bullet-title(accent-pink)[Multiple repeats]])[
@@ -248,11 +254,7 @@ Read size=2000
 #image("pic/k2000.png", width: 50%)
 ]
 
-#slide(title: [#bullet-title(accent-pink)[Overlap graph simplifications]])[
-#align(center)[
-#image("pic/olc_simplif.pdf", width: 80%)
-]
-]
+
 
 #slide(title: [#bullet-title(accent-cyan)[First (and most important) checkpoint]])[
 - Assembly orders reads using overlaps; longer overlaps are *generally* better.
@@ -335,11 +337,7 @@ Quadratic: 2X data 4X time
 ]
 ]
 
-#slide(title: [#bullet-title(accent-pink)[Another idea]])[
-#align(center)[
-#image("fig2025/dbg_intuition2.png", width: 100%)
-]
-]
+
 
 #slide(title: [#bullet-title(accent-cyan)[Context]])[
 #align(center)[
@@ -353,11 +351,7 @@ Quadratic: 2X data 4X time
 ]
 ]
 
-#slide(title: [#bullet-title(accent-cyan)[Assembly]])[
-#align(center)[
-#image("fig2024/dbg_intuition10.pdf", width: 40%)
-]
-]
+
 
 #slide(title: [#bullet-title(accent-pink)[The de Bruijn graph]])[
 #image("pic/dbg0.pdf", width: 70%)
@@ -410,9 +404,7 @@ in my graph, $k$-mer size = read size
 #image("pic/dbg3.pdf", width: 100%)
 ]
 
-#slide(title: [#bullet-title(accent-pink)[On the representation of de Bruijn graphs]])[
-#image("pic/fourche.pdf", width: 90%)
-]
+
 
 #slide(title: [#bullet-title(accent-cyan)[The boy is diploid!]])[
 #image("fig2024/dog_ploid.png", width: 95%)
@@ -666,8 +658,41 @@ Erroneous $k$-mers are seen less than genomic ones
 #slide(title: [#bullet-title(accent-cyan)[Fourth experiment: _golden boy_'s genome]])[
 #image("pic/goldenboy.png", width: 40%)
 
-Billion $\$$ project $->$ cancelled
+Billion $\$$ project $->$ ultra long reads
 ]
+
+
+#slide(title: [#bullet-title(accent-cyan)[Fourth experiment: _golden boy_'s genome]])[
+
+
+TODO recap ultra long reads
+]
+
+
+#slide(title: [#bullet-title(accent-cyan)[Output of OLC/DBG after long reads assembly]])[
+#image("fig2026/ul_1.png", width: 40%)
+
+]
+
+
+#slide(title: [#bullet-title(accent-cyan)[Phase and fill with ultra long reads]])[
+#image("fig2026/ul_2.png", width: 40%)
+
+]
+
+#slide(title: [#bullet-title(accent-cyan)[Current possibilities summary]])[
+Data:
+#image("fig2026/data_table.png", width: 40%)
+
+]
+
+
+#slide(title: [#bullet-title(accent-cyan)[Current possibilities summary]])[
+Assembly pipelines:
+#image("fig2026/big_recap.png", width: 40%)
+
+]
+
 
 #slide(title: [#bullet-title(accent-pink)[(Time accurate) recap]])[
 #beamer-block([Sanger])[
