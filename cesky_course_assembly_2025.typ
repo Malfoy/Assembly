@@ -44,9 +44,6 @@ Bingo: find a book that we both love (French title).],
 #image("pic/acgt.jpg", width: 100%)
 ]
 
-#slide(title: [#bullet-title(accent-pink)[Why do we need assembly?]])[
-#image("pic/wtf.png", width: 100%)
-]
 
 #slide(title: [#bullet-title(accent-cyan)[Reads are subsequences from the genome]])[
 #image("fig2025/beginning1.png", width: 70%)
@@ -78,21 +75,14 @@ Bingo: find a book that we both love (French title).],
  30X are often required for assembly projects
 ]
 
-#slide(title: [#bullet-title(accent-cyan)[First experiment: _Long, perfect boy_'s genome]])[
-#image("fig2024/first_experiment2.pdf", width: 80%)
+#slide(title: [#bullet-title(accent-cyan)[First experiment: theoretical, perfect reads]])[
+#image("fig2026/expe1.png", width: 80%)
 ]
 
 #slide(title: [#bullet-title(accent-pink)[Order according to overlaps]])[
 Overlaping reads are likely successive part of the genome
 #image("fig2024/longest_overlap3.pdf", width: 60%)
-]
 
-#slide(title: [#bullet-title(accent-cyan)[How to compute the overlaps? Alignment?]])[
-#image("fig2024/compute_overlap1.pdf", width: 80%)
-]
-
-#slide(title: [#bullet-title(accent-pink)[How to compute the overlaps? Quick exact match!]])[
-#image("fig2024/compute_overlap0.pdf", width: 90%)
 ]
 
 #slide(title: [#bullet-title(accent-cyan)[Check all reads for overlaps]])[
@@ -407,7 +397,7 @@ in my graph, $k$-mer size = read size
 
 
 #slide(title: [#bullet-title(accent-cyan)[The boy is diploid!]])[
-#image("fig2024/dog_ploid.png", width: 95%)
+#image("fig2026/dog_ploid.png", width: 95%)
 ]
 
 #slide(title: [#bullet-title(accent-pink)[Ploidy and very long reads]])[
@@ -425,37 +415,23 @@ Assembly concession: assembly can be fragmented due to ploidy
 ]
 
 #slide(title: [#bullet-title(accent-cyan)[Data checkpoint: results for the _long, perfect boy_]])[
-#image("fig2024/first_experiment_result2.pdf", width: 90%)
+#image("fig2026/first_experiment_result2.pdf", width: 90%)
 
 - Contigs can reach the chromosome's order of magnitude in length (megabases)
 - Breaks due to large repeats
 - Haplotypes can be partially reconstructed
 ]
 
-#slide(title: [#bullet-title(accent-cyan)[Second experiment: _noisy, super long boy_'s genome]])[
-#image("fig2024/second_experiment2.pdf", width: 100%)
+#slide(title: [#bullet-title(accent-cyan)[Second experiment: ONT and PacBio long reads]])[
+#image("fig2026/expe2.png", width: 100%)
 ]
 
 #slide(title: [#bullet-title(accent-cyan)[de Bruijn graph or overlap graph?]])[
-#image("fig2024/quiz1.png", width: 85%)
+#image("fig2026/choice2.png", width: 75%)
+
+Both after read correction...
 ]
 
-#slide(title: [#bullet-title(accent-cyan)[Sequencing errors and $k$-mers]])[
-Issue with large $k$-mers
-#image("fig2025/seq_error1.png", width: 70%)
-- large $k$-mers won't connect
-- many spurious $k$-mers
-]
-
-#slide(title: [#bullet-title(accent-cyan)[Sequencing errors and $k$-mers]])[
-Let's try small $k$-mers
-
-#image("fig2025/seq_error2.png", width: 100%)
-#v(0.4cm)
-- the graph becomes too complicated: everything is a "repeat"
-- we lose the advantage of having *long* reads
-$->$ *de Bruijn graph out!*
-]
 
 #slide(title: [#bullet-title(accent-cyan)[Overlap graph: inexact matches]])[
 #image("fig2024/compute_overlap1.pdf", width: 60%)
@@ -495,16 +471,6 @@ Procedure called _anchor chaining_.
 #image("fig2024/polish.pdf", width: 100%)
 ]
 
-#slide(title: [#bullet-title(accent-cyan)[Correction/Consensus during assembly/Polishing]])[
-- Correction #text(fill: red)[$x$]
-- Redundancy: 100X depth $->$ 100X more bases to correct
-- Consensus during assembly  #text(fill: orange)[approx]
-- Do not use all reads
-- Polishing #text(fill: green)[$checkmark$]
-- Correct each base of the genome once
-- Use all reads
-]
-
 #slide(title: [#bullet-title(accent-cyan)[Consensus destroys heterozygosity]])[
  #image("fig2024/consensus_ploidy.pdf", width: 90%)
  $->$ a mix between the two alleles
@@ -519,19 +485,19 @@ Procedure called _anchor chaining_.
 #image("fig2024/comparison_olc_dbg2.png", width: 70%)
 ]
 
-#slide(title: [#bullet-title(accent-cyan)[Data checkpoint: results for the _noisy super long boy_]])[
-#image("fig2024/second_experiment_result2.pdf", width: 90%)
+#slide(title: [#bullet-title(accent-cyan)[Data checkpoint: results for ONT/PacBio long reads]])[
+#image("fig2026/second_experiment_result2.pdf", width: 90%)
 - Contigs can reach the chromosome's order of magnitude in length (megabases)
 - Breaks due to very large repeats
 - Contigs are chimeras of haplotypes
 ]
 
-#slide(title: [#bullet-title(accent-cyan)[Third experiment: _short boy_'s genome]])[
-#image("fig2024/third_experiment.png", width: 99%)
+#slide(title: [#bullet-title(accent-cyan)[Third experiment: Illumina short reads]])[
+#image("fig2026/expe3.png", width: 99%)
 ]
 
 #slide(title: [de Bruijn graph or overlap graph?])[
-#image("fig2024/quiz2.png", width: 99%)
+#image("fig2026/choice.png", width: 69%)
 ]
 
 #slide(title: [#bullet-title(accent-pink)[Scalability issue for the overlap graph]])[
@@ -648,7 +614,7 @@ Erroneous $k$-mers are seen less than genomic ones
 ]
 
 #slide(title: [#bullet-title(accent-cyan)[Data checkpoint: _short boy_ results]])[
-#image("fig2024/third_experiment_result.pdf", width: 90%)
+#image("fig2026/third_experiment_result.pdf", width: 90%)
 - Very fragmented assembly of short contigs (mostly below 100kb)
 - Very high base accuracy
 - Contigs are chimeras of haplotypes
