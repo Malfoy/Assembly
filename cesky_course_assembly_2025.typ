@@ -197,6 +197,7 @@ From #link("https://en.wikipedia.org/wiki/Birthday_problem")
 - 100,001: 9
 - 500,001: 8
 
+Example: pericentromeric region of chrI : 20Mb of satellite repeats, identical repeats up to 10kb
  #align(center)[
 *Genomic repeats are NOT random events*
 ]
@@ -384,6 +385,38 @@ in my graph, $k$-mer size = read size
 #image("pic/dbgBIG3.pdf", width: 100%)
 ]
 
+#slide(title: [#bullet-title(accent-cyan)[Coming back to a de Bruijn graph limitation: fixed overlaps]])[
+#image("pic/dbg_ov.pdf", width: 100%)
+#v(0.4cm)
+ GGACT and ACTTA overlap is only of size 3 !
+- A too small $k$ is not a solution
+- We would like larger $k$'s but miss connections
+]
+
+#slide(title: [#bullet-title(accent-pink)[Multiple $k$ assembly]])[
+Most de Bruijn graph assemblers can now perform several assemblies with different $k$-mer sizes to produce an improved super assembly
+
+/ Exercise :
+Build DBG with k=5 and k=7 from those reads
+
+
+AAAATCGATCTC
+
+TCTCATCGAATT
+
+]
+
+#slide(title: [#bullet-title(accent-cyan)[Multiple $k$ assembly]])[
+#image("pic/multik.pdf", width: 60%)
+We are missing GATCTCA and ATCTCAT  in the second graph. 
+
+But they are present in the first graph!
+]
+
+#slide(title: [#bullet-title(accent-pink)[Multiple $k$ assembly]])[
+#image("pic/multiplek2.pdf", width: 90%)
+]
+
 #slide(title: [#bullet-title(accent-cyan)[Repeats in a de Bruijn graphs]])[
 #image("pic/dbg2.pdf", width: 100%)\#v(0.4cm)
  
@@ -394,7 +427,9 @@ in my graph, $k$-mer size = read size
 #image("pic/dbg3.pdf", width: 100%)
 ]
 
-
+#slide(title: [#bullet-title(accent-cyan)[Something is wrong with my assembly]])[
+TODO chimeric fig
+]
 
 #slide(title: [#bullet-title(accent-cyan)[The boy is diploid!]])[
 #image("fig2026/dog_ploid.png", width: 95%)
@@ -467,7 +502,14 @@ Procedure called _anchor chaining_.
 #image("fig2024/consensus2.pdf", width: 100%)
 ]
 
-#slide(title: [#bullet-title(accent-pink)[Consensus after  assembly: polishing]])[
+#slide(title: [#bullet-title(accent-pink)[Slides 1-64 apply!]])[
+After correction, we're basically back into an "ideal" scenario just like our first experiment 
+
+Assemblers handling this case are: xxTODO
+]
+
+
+#slide(title: [#bullet-title(accent-pink)[Note: consensus *after*  assembly, polishing]])[
 #image("fig2024/polish.pdf", width: 100%)
 ]
 
@@ -492,6 +534,12 @@ Procedure called _anchor chaining_.
 - Contigs are chimeras of haplotypes
 ]
 
+
+#slide(title: [#bullet-title(accent-pink)[Phase-aware correction]])[
+TODO
+Assemblers handling this case are: xxTODO
+]
+
 #slide(title: [#bullet-title(accent-cyan)[Third experiment: Illumina short reads]])[
 #image("fig2026/expe3.png", width: 99%)
 ]
@@ -510,6 +558,7 @@ At equal coverage we got:
 Overlap graph hardly scales to such a large number of reads/overlaps
 #v(1cm)
 $->$ *Overlap graph out!*
+Instead short read assemblers use DBGs, such as xxxTODO
 ]
 
 #slide(title: [#bullet-title(accent-cyan)[de Bruijn graph on a real dataset]])[
@@ -643,6 +692,15 @@ TODO recap ultra long reads
 
 #slide(title: [#bullet-title(accent-cyan)[Phase and fill with ultra long reads]])[
 #image("fig2026/ul_2.png", width: 40%)
+
+]
+
+#slide(title: [#bullet-title(accent-cyan)[After assembly: scaffolding]])[
+TODO data/method
+]
+
+#slide(title: [#bullet-title(accent-cyan)[After assembly: scaffolding]])[
+#image("fig2026/scaffolding_result.pdf", width: 40%)
 
 ]
 
@@ -932,37 +990,7 @@ If we have time, we'll review everything (while doing this course, I doubt it ..
 - The repeat graph
 ]
 
-#slide(title: [#bullet-title(accent-cyan)[Coming back to a de Bruijn graph limitation: fixed overlaps]])[
-#image("pic/dbg_ov.pdf", width: 100%)
-#v(0.4cm)
- GGACT and ACTTA overlap is only of size 3 !
-- A too small $k$ is not a solution
-- We would like larger $k$'s but miss connections
-]
 
-#slide(title: [#bullet-title(accent-pink)[Multiple $k$ assembly]])[
-Most de Bruijn graph assemblers can now perform several assemblies with different $k$-mer sizes to produce an improved super assembly
-
-/ Exercise :
-Build DBG with k=5 and k=7 from those reads
-
-
-AAAATCGATCTC
-
-TCTCATCGAATT
-
-]
-
-#slide(title: [#bullet-title(accent-cyan)[Multiple $k$ assembly]])[
-#image("pic/multik.pdf", width: 60%)
-We are missing GATCTCA and ATCTCAT  in the second graph. 
-
-But they are present in the first graph!
-]
-
-#slide(title: [#bullet-title(accent-pink)[Multiple $k$ assembly]])[
-#image("pic/multiplek2.pdf", width: 90%)
-]
 
 #slide(title: [#bullet-title(accent-pink)[HiFi de Bruijn graph Assembly]])[
 Using very large K (K=500 to K=5000) de Bruijn graphs to assemble
