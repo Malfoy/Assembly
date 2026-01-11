@@ -22,34 +22,48 @@
 #image("pic/cesky_mini.pdf", width: 100%)])
 
 #slide(title: [#bullet-title(accent-pink)[Evaluate assembly according to a reference]])[
+#align(center)[
+
 Contigs can be mapped and compared to a reference/closely related genome
 
 #image("pic/quast.png", width: 100%)
 
 From  #link("https://quast.bioinf.spbau.ru/manual.html")
 ]
+]
 
 #slide(title: [#bullet-title(accent-pink)[Assembly statistics]])[
+#align(center)[
+
 #image("pic/quastoutput.png", width: 85%)
 
 From  #link("http://cab.cc.spbu.ru/quast/")
 ]
+]
 
 #slide(title: [#bullet-title(accent-pink)[Assembly continuity]])[
+#align(center)[
+
 #beamer-block([N50])[
 N50 can be described as a weighted median statistic such that 50% of the entire assembly is contained in contigs or scaffolds equal to or larger than this value.
 ]
  #image("pic/n50.png", width: 100%)
 ]
+]
 
 #slide(title: [#bullet-title(accent-pink)[Assembly continuity]])[
+#align(center)[
+
 #beamer-block([N50])[
 N50 can be described as a weighted median statistic such that 50% of the entire assembly is contained in contigs or scaffolds equal to or larger than this value.
 ]
  #image("pic/n50.png", width: 100%)
 ]
+]
 
 #slide(title: [#bullet-title(accent-pink)[Assembly continuity]])[
+#align(center)[
+
 #beamer-block([N50])[
 N50 can be described as a weighted median statistic such that 50% of the entire assembly is contained in contigs or scaffolds equal to or larger than this value.
 ]
@@ -63,41 +77,62 @@ N75 is the same statistic for 75% of the assembly
 Similar to the N50 but only takes into account contigs/scaffolds that can be *aligned* on the reference genome and consider 50% of the *genome size* instead of the assembly size
 ]
 ]
+]
 
 #slide(title: [#bullet-title(accent-pink)[Misassemblies]])[
+#align(center)[
 #image("pic/misa.png", width: 90%)
+]
 ]
 
 #slide(title: [#bullet-title(accent-cyan)[Visualize assembly]])[
+#align(center)[
+
 Bandage tool can visualize assembly graphs (GFA)
   #image("pic/bandage.png", width: 100%)
 
 From #link("https://rwick.github.io/Bandage")
 ]
+]
 
 #slide(title: [#bullet-title(accent-cyan)[Visualize assembly]])[
+#align(center)[
+
 Bandage tool can visualize assembly graphs (GFA)
  
    #image("pic/simple.png", width: 49%)
   #image("pic/boule.jpg", width: 49%)
 ]
+]
 
 #slide(title: [#bullet-title(accent-pink)[$K$-mer spectrum visualization with KAT]])[
+#align(center)[
+
 #image("pic/kat2.png", width: 100%)
   From #link("https://kat.readthedocs.io/en/latest/")
 ]
+]
 
 #slide(title: [#bullet-title(accent-pink)[$K$-mer spectrum visualization with KAT]])[
+#align(center)[
+
 #image("pic/kat3.png", width: 100%)
   From #link("https://kat.readthedocs.io/en/latest/")
 ]
-
-#slide(title: [#bullet-title(accent-pink)[$K$-mer spectrum visualization with KAT]])[
-#image("pic/kat4.png", width: 100%)
-  From #link("https://kat.readthedocs.io/en/latest/")
 ]
 
 #slide(title: [#bullet-title(accent-pink)[$K$-mer spectrum visualization with KAT]])[
+#align(center)[
+
+#image("pic/kat4.png", width: 100%)
+  From #link("https://kat.readthedocs.io/en/latest/")
+]
+]
+
+#slide(title: [#bullet-title(accent-pink)[$K$-mer spectrum visualization with KAT]])[
+#align(center)[
+
 #image("pic/kat5.png", width: 100%)
   From #link("https://kat.readthedocs.io/en/latest/")
+]
 ]
